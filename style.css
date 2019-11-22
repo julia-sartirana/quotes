@@ -78,11 +78,11 @@ body {
 }
 
 .section-third {
-   border: 2px solid #FC8C8C;
+   border: 2px solid #1fab89;
    margin: 0px;
    padding: 70px;
    width: 100%;
-   background: #FC8C8C;
+   background: #1fab89;
    overflow: hidden;
 }
 
@@ -106,11 +106,11 @@ body {
 }
 
 .section-fourth {
-   border: 2px solid #1fab89;
+   border: 2px solid #FB9D9D;
    margin: 0px;
    padding: 70px;
    width: 100%;
-   background: #1fab89;
+   background: #FB9D9D;
    overflow: hidden;
 
 }
