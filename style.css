@@ -1,0 +1,139 @@
+body {
+    margin: 0px;
+}
+
+.quote-firts {
+   font-family: 'Roboto', Sans-Serif; 
+   font-size: 18px;
+   border-left: 4px solid #f6c89f;
+   margin: 20px 50px;
+   padding: 10px 0px 10px 20px;
+   max-width: 80%;
+   box-sizing: content-box; 
+}
+
+.container-firts {
+   margin: auto;
+   background: #E3FBEC;
+   width: 500px;
+   overflow: hidden;
+   border-radius: 10px;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.44);
+}
+   
+ .section-first {
+   border: 2px solid #C6F1D6;
+   margin: 0px;
+   padding: 70px;
+   width: 100%;
+   background: #c6f1d6;
+   overflow: hidden;
+}
+
+.quote-second {
+   font-family: 'Roboto', Sans-Serif;
+   font-size: 18px;
+   border-left: 4px solid #c6f1d6;
+   margin: 20px 50px;
+   padding: 10px 0px 10px 20px;
+   max-width: 80%;
+   box-sizing: content-box; 
+ }
+
+.container-second {
+   margin: auto;
+   background: #f6c89f;
+   width: 500px;
+   overflow: hidden;
+   border-radius: 10px;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.44);
+}
+
+.section-second {
+   border: 2px solid #AABB73;
+   margin: 0px;
+   padding: 70px;
+   width: 100%;
+   background: #ffba92;
+   overflow: hidden;
+}
+
+.quote-third {
+   font-family: 'Roboto', Sans-Serif;
+   font-size: 18px;
+   border-left: 4px solid #1fab89;
+   margin: 20px 50px;
+   padding: 10px 0px 10px 20px;
+   max-width: 80%;
+   box-sizing: content-box; 
+}
+
+.container-tirth {
+   margin: auto;
+   background: #FB9D9D;
+   width: 500px;
+   overflow: hidden;
+   border-radius: 10px;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.44);
+}
+
+.section-third {
+   border: 2px solid #FC8C8C;
+   margin: 0px;
+   padding: 70px;
+   width: 100%;
+   background: #FC8C8C;
+   overflow: hidden;
+}
+
+.quote-fourth {
+   font-family: 'Roboto', Sans-Serif;
+   font-size: 18px;
+   border-left: 4px solid #FB9D9D;
+   margin: 20px 50px;
+   padding: 10px 0px 10px 20px;
+   max-width: 80%;
+   box-sizing: content-box; 
+}
+
+.container-fourth {
+   margin: auto;
+   background: #24C79F;
+   width: 500px;
+   overflow: hidden;
+   border-radius: 10px;
+   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.44);
+}
+
+.section-fourth {
+   border: 2px solid #1fab89;
+   margin: 0px;
+   padding: 70px;
+   width: 100%;
+   background: #1fab89;
+   overflow: hidden;
+
+}
+
+.author {
+   font-family: 'Droid Serif', Serif;
+   font-size: 11px;
+   margin: 20px 70px;
+}
+
+.zapata-portrait {
+   width: 100%;
+   margin: auto;
+   }
+.barthes-portrait {
+   width: 100%;
+   margin: auto;
+}
+.auster-portrait {
+   width: 100%;
+   margin: auto;
+}
+.hustvedt-portrait {
+   width: 100%;
+   margin: auto;
+}
